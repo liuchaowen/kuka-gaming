@@ -46,3 +46,4 @@ sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 video.unrulymedia.com, 3948367200, RESELLER
 rhythmone.com, 3948367200, RESELLE
+google.com, pub-9686145269145450, DIRECT, f08c47fec0942fa0
